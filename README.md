@@ -16,7 +16,7 @@ A full-stack web application for managing stores and their ratings. The applicat
 
 ### Store Listing Page
 
-![Store Listing](./screenshots/store-listing.png)
+![Store Listing](./screenshots/store.png)
 The store listing page shows all registered stores with their ratings. Users can:
 
 - Search stores by name or address
@@ -26,7 +26,7 @@ The store listing page shows all registered stores with their ratings. Users can
 
 ### Admin Dashboard
 
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin.png)
 The admin dashboard provides an overview of:
 
 - Total number of users
